@@ -1,9 +1,10 @@
 # React + TypeScript + Vite
 
-📰 OpenAI Article Summarizer
+# 📰 OpenAI Article Summarizer
 A fully functional web application that leverages OpenAI's language models to automatically summarize articles from any given URL. Built with React, Redux Toolkit Query, TypeScript, and Vercel for seamless deployment.
 
-🌟 Features
+# 🌟 Features
+
 🔗 Input any article URL and receive a concise AI-generated summary.
 
 🔄 Stores browsing history locally to access previous summaries.
@@ -18,7 +19,8 @@ A fully functional web application that leverages OpenAI's language models to au
 
 🌐 Deployed and hosted on Vercel for optimal performance.
 
-🚀 Technologies Used
+# 🚀 Technologies Used
+
 React
 
 TypeScript
